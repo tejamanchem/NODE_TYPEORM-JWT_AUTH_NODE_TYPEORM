@@ -1,1 +1,1 @@
-# NODE_TYPEORM-JWT_AUTH_NODE_TYPEORM
+# 2. API with Node.js + PostgreSQL + TypeORM: JWT Authentication
